@@ -1,11 +1,11 @@
-    113 lines (81 sloc)  5.68 KB
+   es (81 sloc)  5.68 KB
 <?xml version="1.0" encoding="UTF-8" ?>
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.pong_fatima_belmakrane"
-        versionCode = "4" 
-        version     = "0.1.00" >
+        id          = "cat.numancia.pong_sergi_curtu"
+        versionCode = "6" 
+        version     = "0.1.06" >
 	
 	<!-- versionCode is optional and Android only -->
 
@@ -14,11 +14,11 @@
    <name>Pong SCB</name>
 
    <description>
-      
-  </description>
+       Un pong fet per alumnes de 4t del Numància
+    </description>
 
-    <author email="fbelmakrane52@iesnumancia.cat">
-       Fatima Belmakrane
+    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
+       Sergi Curtu
     </author>
 
     <!-- EN ARRENCAR L'APP LLLEGIRÀ L'ARXIU INDEX.HTML-->	
